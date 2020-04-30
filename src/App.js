@@ -1,10 +1,9 @@
 import React from 'react';
-import RegistrationForm from "./components/RegistrationForm";
+import UserForm from "./components/UserForm";
 
 function App(){
   return(<div>
-    <h1>Availity Registration Portal</h1>
-    <RegistrationForm/>
+    <UserForm/>
   </div>);
 }
 
