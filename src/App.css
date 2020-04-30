@@ -3,15 +3,15 @@
     text-align: -moz-center;
 }
 
-.success{
+.success {
     background-color: #3F51B5;
     color: white;
     margin: 0;
     padding: 0;
-    top:0;
+    top: 0;
 }
 
-.success-width{
+.success-width {
     display: block;
     width: 100%;
     text-align: center;
